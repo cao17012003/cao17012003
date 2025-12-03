@@ -58,7 +58,3 @@ I'm **Trần Quang Vinh**
 </div>
 
 <br/>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=cao17012003&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile views" />
-</div>
